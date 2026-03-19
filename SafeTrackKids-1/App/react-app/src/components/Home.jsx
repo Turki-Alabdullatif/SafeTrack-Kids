@@ -9,7 +9,7 @@ import Steps from './Steps';
 import Features from './Features';
 import HardwareIntegration from './HardwareIntegration'; // NEW: Talk about the bracelets
 import Privacy from './Privacy';
-import CTA from './CTA';
+import CTA from './Cta';
 import Footer from './Footer';
 
 export default function Home() {
